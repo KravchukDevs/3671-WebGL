@@ -3,10 +3,13 @@
     <type fullname="Achievements.AchievementView" preserve="all" />
     <type fullname="Configs.ChickenUpgradesConfig" preserve="all" />
     <type fullname="Gameplay.Chickens.Chicken" preserve="all" />
+    <type fullname="Gameplay.Chickens.ChickenAimController" preserve="all" />
     <type fullname="Gameplay.Chickens.ChickenInstaller" preserve="all" />
     <type fullname="Gameplay.Chickens.ChickenLevelDisplay" preserve="all" />
     <type fullname="Gameplay.Chickens.ChickensConfig" preserve="all" />
+    <type fullname="Gameplay.Chickens.IdleAnimator" preserve="all" />
     <type fullname="Gameplay.Chickens.Nest" preserve="all" />
+    <type fullname="Gameplay.Enemies.DamageEffect" preserve="all" />
     <type fullname="Gameplay.Enemies.Enemy" preserve="all" />
     <type fullname="Gameplay.Enemies.EnemyHealthView" preserve="all" />
     <type fullname="Gameplay.Enemies.EnemyInstaller" preserve="all" />
